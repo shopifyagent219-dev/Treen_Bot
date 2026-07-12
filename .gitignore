@@ -1,38 +1,9 @@
-# Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Environment variables
+*.pyc
+*.pyo
 .env
-.env.local
-.env.production
-
-# Database
 *.db
-*.sqlite3
-
-# Logs
-*.log
-logs/
-
-# OS files
+*.sqlite
 .DS_Store
-Thumbs.db
-
-# IDE
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
-
-# Railway
-railway.json
